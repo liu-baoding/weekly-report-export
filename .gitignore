@@ -1,0 +1,5 @@
+# 配置文件（包含真实 Token，不提交）
+config.ini
+
+# Claude Code 本地配置
+.claude/
